@@ -33,10 +33,10 @@ const Properties = () => {
                             slidesPerView:2,
                             spaceBetween:30,
                         },1124:{
-                            slidesPerView:2,
+                            slidesPerView:3,
                             spaceBetween:30,
                         },1300:{
-                            slidesPerView:3,
+                            slidesPerView:4,
                             spaceBetween:30,
                         },
                     }}
@@ -53,7 +53,7 @@ const Properties = () => {
                 </Swiper>
         </div>
     </section>
-  )
+)
 }
 
 export default Properties

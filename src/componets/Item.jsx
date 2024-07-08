@@ -40,7 +40,7 @@ const Item = ({property}) => {
       </div>
       <p>{property.description}</p>
       <div className='flexBetween'>
-        <div>{property.price}.00</div>
+        <div>{property.price}</div>
         <Link to={'/'}>
         <button className='btn-secondary roundedxl !py-[7px] !px-5 shadow-sm'>
             Details

@@ -42,7 +42,7 @@ export const PROPERTIES = [
         state: "Telangana",
         city: "Hyderabad",
         area: "4000 sq.ft",
-        price: "₹ 3,50,00,000",
+        price: "₹ 3.5 Cr",
         description: "A luxurious villa with modern amenities and a beautiful garden.",
         facilities: {
             bedrooms: 5,
@@ -58,7 +58,7 @@ export const PROPERTIES = [
         state: "Maharashtra",
         city: "Mumbai",
         area: "1500 sq.ft",
-        price: "₹ 2,25,00,000",
+        price: "₹ 2.25 Cr",
         description: "A stylish apartment in the heart of the city with stunning sea views.",
         facilities: {
             bedrooms: 3,
@@ -74,7 +74,7 @@ export const PROPERTIES = [
         state: "Karnataka",
         city: "Bangalore",
         area: "2000 sq.ft",
-        price: "₹ 1,75,00,000",
+        price: "₹1.75 Cr",
         description: "A charming cottage perfect for weekend getaways with family.",
         facilities: {
             bedrooms: 3,
@@ -90,7 +90,7 @@ export const PROPERTIES = [
         state: "Delhi",
         city: "New Delhi",
         area: "1200 sq.ft",
-        price: "₹ 1,50,00,000",
+        price: "₹ 1.5 Cr",
         description: "A contemporary flat located in a bustling neighborhood with easy access to amenities.",
         facilities: {
             bedrooms: 2,
@@ -106,7 +106,7 @@ export const PROPERTIES = [
         state: "West Bengal",
         city: "Kolkata",
         area: "3500 sq.ft",
-        price: "₹ 2,75,00,000",
+        price: "₹ 2.75 Cr",
         description: "A large bungalow with a beautiful lawn and ample living space for a family.",
         facilities: {
             bedrooms: 4,
@@ -122,7 +122,7 @@ export const PROPERTIES = [
         state: "Telangana",
         city: "Hyderabad",
         area: "5000 sq.ft",
-        price: "₹ 4,50,00,000",
+        price: "₹ 4.5 Cr",
         description: "An opulent penthouse with panoramic city views and top-notch facilities.",
         facilities: {
             bedrooms: 5,
@@ -138,7 +138,7 @@ export const PROPERTIES = [
         state: "Maharashtra",
         city: "Mumbai",
         area: "1800 sq.ft",
-        price: "₹ 3,00,00,000",
+        price: "₹ 3.0 Cr",
         description: "A beachfront condo offering spectacular ocean views and modern living.",
         facilities: {
             bedrooms: 3,
@@ -154,7 +154,7 @@ export const PROPERTIES = [
         state: "Karnataka",
         city: "Bangalore",
         area: "2500 sq.ft",
-        price: "₹ 2,00,00,000",
+        price: "₹ 2.0 Cr",
         description: "A serene mountain retreat with breathtaking views and peaceful surroundings.",
         facilities: {
             bedrooms: 4,
@@ -170,7 +170,7 @@ export const PROPERTIES = [
         state: "Delhi",
         city: "New Delhi",
         area: "1400 sq.ft",
-        price: "₹ 1,75,00,000",
+        price: "₹ 1.75 Cr",
         description: "A chic city loft with modern amenities and vibrant city life.",
         facilities: {
             bedrooms: 2,

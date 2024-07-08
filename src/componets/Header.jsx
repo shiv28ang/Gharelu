@@ -2,7 +2,7 @@
 import React, { useEffect, useState } from 'react'
 import { MdClose, MdMenu } from 'react-icons/md'
 import { Link } from 'react-router-dom'
-import userIcon from '../assets/User.png'
+import userIcon from '../assets/Use.png'
 import Navbar from './Navbar.jsx'
 
 const Header = () => {
@@ -61,7 +61,6 @@ const Header = () => {
             className="xl:hidden cursor-pointer text-3x1 hover:text-secondary"/>) }
             <button className="btn-secondary flexCenter gap-x-2 medium-16 rounded-full">
               <img src={userIcon} alt="" height={22} width={22} />
-              {/* //yahan pr import krna h  */}
               <span>LogIn</span>
             </button>
             </div>
