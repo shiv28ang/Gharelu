@@ -2,8 +2,8 @@
 import React, { useEffect, useState } from 'react'
 import { MdClose, MdMenu } from 'react-icons/md'
 import { Link } from 'react-router-dom'
+import userIcon from '../assets/User.png'
 import Navbar from './Navbar.jsx'
-// image import krke neeche lgani bhi h
 
 const Header = () => {
   const [active,setActive] =useState(false);
@@ -60,7 +60,7 @@ const Header = () => {
             (<MdClose onClick={toggleMenu}
             className="xl:hidden cursor-pointer text-3x1 hover:text-secondary"/>) }
             <button className="btn-secondary flexCenter gap-x-2 medium-16 rounded-full">
-              <img src="userIcon" alt="" height={22} width={22} />
+              <img src={userIcon} alt="" height={22} width={22} />
               {/* //yahan pr import krna h  */}
               <span>LogIn</span>
             </button>

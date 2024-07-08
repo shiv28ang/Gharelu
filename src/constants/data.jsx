@@ -4,6 +4,26 @@ import img3 from "../assets/img3.png";
 import img4 from "../assets/img4.png";
 import img5 from "../assets/img5.png";
 
+export const FOOTER_LINKS=[{
+    title:"Learn More",
+    links:[
+        "About Us ",
+        "Latest News ",
+        "Hot Offers ",
+        "FAQ ",
+        "Privacy Policy ",
+    ],
+},
+{
+    title:"Our Community",
+    links:[
+        "Terms and Conditions",
+        "Special Offers",
+        "Customer Reviews",
+    ],
+},
+];
+
 export const PROPERTIES = [
     {
         title: "Elegant Villa",
