@@ -4,7 +4,8 @@ import img3 from "../assets/img3.png";
 import img4 from "../assets/img4.png";
 import img5 from "../assets/img5.png";
 
-export const FOOTER_LINKS=[{
+export const FOOTER_LINKS=[
+{
     title:"Learn More",
     links:[
         "About Us ",
@@ -23,6 +24,14 @@ export const FOOTER_LINKS=[{
     ],
 },
 ];
+
+export const CONTACT_INFO={
+    title:"Contact:",
+    links:[
+        {label:"Phone:",value:"123-456-789"},
+        {label:"Email:",value:"21ucs192@lnmiit.ac.in"},
+    ],
+};
 
 export const PROPERTIES = [
     {
