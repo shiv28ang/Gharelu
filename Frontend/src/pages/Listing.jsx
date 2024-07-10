@@ -12,7 +12,7 @@ const Listing = () => {
           {/* Container */}
           <div className='grid gap-6 grid-cols-1 md:grid-cols-2 xl:grid-cols-3 mt-12'>
           {
-             PROPERTIES.map((property)=>(
+            PROPERTIES.map((property)=>(
             <Item key={property.title} property={property}/>
             ))}
           </div>

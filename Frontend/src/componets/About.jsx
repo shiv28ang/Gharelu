@@ -37,7 +37,7 @@ const About = () => {
             {/* left side */}
         <div className='flex-1 relative'>
         
-            <img src={aboutImg} alt="" className='rounded-3xl rounded-tr-[155px] w-[488px]' />
+            <img src={aboutImg} alt="" className='rounded-tr-[155px] rounded-xl w-[488px]' />
             <div className='bg-white absolute bottom-16 left-16 max-w-xs p-4 rounded-lg flexcenter flex-col'>
                 <span className='relative bottom-8 p-3 shadow-md bg-white h-12 w-12 flex items-center rounded-full'>
                     <RiDoubleQuotesL className='text-2xl'/>
